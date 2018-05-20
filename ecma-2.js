@@ -14,3 +14,4 @@ document.write(typeof {a:1} + "<br />");
 document.write(typeof [1, 2, 3] + "<br />");
 document.write(typeof undefined + "<br />");
 
+ 

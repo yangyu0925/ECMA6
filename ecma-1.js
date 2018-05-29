@@ -14,4 +14,4 @@ var y = 10;
 if (true) {
     let y = 20;
 }
-document.write("y = " + y + "<br />");
+document.write("y = " + y + "<br />"); 
